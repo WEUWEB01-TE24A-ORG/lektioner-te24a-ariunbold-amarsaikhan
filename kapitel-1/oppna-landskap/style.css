@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    background-image: url(./photo-1431683535750-2b9b2371efb7.avif);
+    background-size: cover;
+}
+h1 {font-family: "Sour Gummy", sans-serif;}
+p{
+    font-family: "DynaPuff", system-ui;
+    color: blue;
+    size: 20px;
+    background-color: aliceblue;
+    margin-left: 30;
+    border-radius: 20px;
+    
+}
+

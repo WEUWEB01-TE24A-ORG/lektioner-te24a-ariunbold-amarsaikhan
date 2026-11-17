@@ -72,3 +72,13 @@ div.bigbox{
     padding: 20px;
     border-radius: 20px;
 }
+div.blue{
+    background-color: blue;
+
+}
+div.green{
+    background-color: green;
+}
+div.yellow{
+    background-color: yellow;
+}
